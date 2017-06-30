@@ -1,7 +1,9 @@
 # Web-based-rainfall-runoff-model
 User-friendly web-based rainfall runoff model can be accessed via the following link.
 
-lmj.nagaokaut.ac.jp/~khin
+lmj.nagaokaut.ac.jp/~khin  
+
+[Reference:Kyi, K.H., Lu, M., and Li, X., 2016. Development of a user-friendly web-based rainfall-runoff model. Hydrological Research Letters, 10 (1), 8–14.]
 
 This web platform not only allows the user to run the rainfall runoff model in a user friendly environment, but also provides the handy calibration support by suggesting parameters set after Li and Lu (2014), hydrograph visualization and calculating Nash Efficiency value.
 
